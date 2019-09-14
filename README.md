@@ -13,7 +13,7 @@ Overall design of the rover
 ![2D wireframe view of the rover](./Pictures/Final_Design_2.png)
 A 2D wireframe view.
 
-![Printing components of the rover](./Pictures/3d_Printing_3.jpg)
+![Printing components of the rover](./Pictures/3D_Printing_3.jpg)
 Printing components of the rover
 
 ![One side assembled](./Pictures/3D_Printing_7.jpg)
