@@ -19,7 +19,7 @@ Printing components of the rover
 ![One side assembled](./Pictures/3D_Printing_7.jpg)
 One side of legs assembled
 
-![All of the versions](./Pictures/Printed_All_versions_2.jpg)
+![All of the versions](./Pictures/Printed_All_Versions_2.jpg)
 All versions of the rover
 
 ![Rocker-bogie design](./Pictures/Rocker_bogie.gif)
