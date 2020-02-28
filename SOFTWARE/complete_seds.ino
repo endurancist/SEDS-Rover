@@ -17,7 +17,8 @@
  *  Write explicit turn left, right, forward, back, etc mothods using structure given here
  *  Add in functionality for multiple sensors?
  *  Actually test on rover
- *  Do multiple sensors for directions
+ *  Do multiple sensors for directions (non-infinite right turns)
+ *  
  */
 
 
@@ -115,7 +116,10 @@ int sign(double input)
 }
 
 //moves forward 
-void driveForward(
+void driveForward()
+{
+  
+}
 
 void setup() {
   // put your setup code here, to run once:
